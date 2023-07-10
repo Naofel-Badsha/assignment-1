@@ -7,8 +7,22 @@
     background-color: #a73e53;
 }
 
+.section-title{
+    text-align: center;
+    padding-top: 35px;
+    font-size: 35px;
+    font-weight: 600;
+    color: lightseagreen;
+}
 
-/*-----------Header---------Start---------*/
+.title-discription{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #c9368f;
+}
+
+/*---Header---Start---*/
 header{
     background-color: pink;
     width: 100%;
@@ -52,4 +66,52 @@ header{
     font-size: 18px;
     font-weight: 600;
 }
-/*-----------Header---------End---------*/
+/*---header---end---*/
+
+
+
+.feauter-content{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.feauter-content .img-box{
+    margin-top: 25px;
+    background-color: #acdbdb;
+    padding: 25px;
+    border-radius: 50% 50% 0 0;
+}
+
+.feauter-content .img-box img{
+    width: 200px;
+}
+
+.flower-catagiry{
+    text-align: center;
+    text-decoration: underline;
+    color: #ff004f;
+}
+
+.delevary-contant{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+    background-color: #bed7ed;
+    padding: 25px;
+    height: 30vh;
+    width: 750px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.delevary-box{
+    padding-top: 25px;
+}
+
+.delevary-box-title{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
