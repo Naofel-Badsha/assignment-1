@@ -169,4 +169,71 @@ header{
 .hot-dea-contant img{
     margin-left: 70px;
 }
-/*--hot--day--Section-End--*/
+/*--hot--day--Section--End--*/
+
+
+
+
+/*--instagram--Section--start--*/
+.instagram-content{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 109px;
+    padding-right: 109px;
+}
+
+.instagram-box-img img{
+    width: 200px;
+}
+/*--instagram--Section--End--*/
+
+
+.subiscribe-section{
+    background-image: url(Flower/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 820px;
+    margin: auto;
+}
+
+.subiscribe-contant{
+   text-align: center;
+}
+
+.form-input{
+    text-align: center;
+}
+
+.subiscrib-title{
+    padding-top: 50px;
+    font-size: 25px;
+    font-weight: 600;
+    color: lightseagreen;
+}
+
+.subiscribe-describtion{
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #434040;
+}
+
+.form-input > form > label > input{
+    padding: 10px;
+    outline: none;
+    border: none;
+    margin-bottom: 50px;
+    width: 400px;
+    border-radius: 3px 0px 0px 3px;
+}
+
+.form-input > form > input[type="submit"]{
+    padding: 10px;
+    background-color: #a73e53;
+    color: white;
+    padding: 7px 10px;
+    font-size: 18px;
+    border: 0;
+    border-radius: 0px 3px 3px 0px;
+}
