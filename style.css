@@ -65,11 +65,13 @@ header{
     border-radius: 3px;
     font-size: 18px;
     font-weight: 600;
+    cursor: pointer;
 }
 /*---header---end---*/
 
 
 
+/*---feauter---start---*/
 .feauter-content{
     display: flex;
     gap: 20px;
@@ -92,7 +94,11 @@ header{
     text-decoration: underline;
     color: #ff004f;
 }
+/*---feauter---end---*/
 
+
+
+/*---delevary---start---*/
 .delevary-contant{
     display: flex;
     gap: 70px;
@@ -115,3 +121,52 @@ header{
     font-size: 20px;
     font-weight: 600;
 }
+/*---delevary---end---*/
+
+
+
+
+
+/*--hot--day--Section-start--*/
+.hot-dea-contant{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    margin-top: 60px;
+}
+
+.hot-dea-main{
+    text-align: center;
+}
+
+.hot-dea-title{
+    font-size: 25px;
+    color: #343232;
+    font-weight: 600;
+}
+
+.span-off{
+    color: #ff004f;
+}
+
+.hot-dea-description{
+    width: 500px;
+    font-weight: 600;
+    color: #434040;
+}
+
+.hot-dea-button{
+    border: none;
+    padding: 12px 14px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.hot-dea-contant img{
+    margin-left: 70px;
+}
+/*--hot--day--Section-End--*/
