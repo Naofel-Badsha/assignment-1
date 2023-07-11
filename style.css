@@ -237,3 +237,32 @@ header{
     border: 0;
     border-radius: 0px 3px 3px 0px;
 }
+
+
+
+.footer-content{
+    text-align: center;
+    background-color: lightslategray;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+.footer-title{
+    font-size: 25px;
+    color: white;
+    font-weight: 600;
+}
+.footer-span{
+    color: #a73e53;
+}
+
+.footer-discription{
+    font-size: 18px;
+    color: white;
+}
+
+.cradet{
+    color: #bb2051;
+    font-weight: 600;
+    font-size: 18px; 
+}
