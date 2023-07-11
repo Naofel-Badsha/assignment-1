@@ -134,6 +134,7 @@ header{
     align-items: center;
     background-color: pink;
     margin-top: 60px;
+    padding: 20px;
 }
 
 .hot-dea-main{
@@ -190,6 +191,8 @@ header{
 /*--instagram--Section--End--*/
 
 
+
+/*--subiscrib--section--start--*/
 .subiscribe-section{
     background-image: url(Flower/Rectangle\ 9.png);
     background-repeat: no-repeat;
@@ -237,9 +240,11 @@ header{
     border: 0;
     border-radius: 0px 3px 3px 0px;
 }
+/*--subiscrib--section--End--*/
 
 
 
+/*--Footer--section--start--*/
 .footer-content{
     text-align: center;
     background-color: lightslategray;
@@ -266,3 +271,4 @@ header{
     font-weight: 600;
     font-size: 18px; 
 }
+/*--Footer--Section--End--*/
